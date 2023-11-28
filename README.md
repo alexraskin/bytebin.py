@@ -1,11 +1,13 @@
 # Bytebin.py
 
+[![Image from Gyazo](https://i.gyazo.com/2ddbbc37300edbe85c873074fb0e4208.png)](https://gyazo.com/2ddbbc37300edbe85c873074fb0e4208)
+
 A simple python wrapper for [Bytebin](https://bytebin.dev/)
 
 ## Installation
 
 ```sh
-pip install bytebin.py
+pip install Bytebin
 ```
 
 ## Example
